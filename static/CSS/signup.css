@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    
+  }
+
+  .heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+  }
+
+  .signup_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    
+  }
+
+  form label,
+  button {
+    margin-top: 20px;
+  }
+
+  .image img {
+    margin-top: 30px;
+   width: 500px;
+   
+  }
+
+  .form-container form{
+    margin: 10px;
+    width: 100%;
+    padding: 10px;
+  }
